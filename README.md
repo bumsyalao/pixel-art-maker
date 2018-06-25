@@ -1,5 +1,9 @@
 # Pixel Art Maker Project
 
+## Link to github page
+
+[pixel-art-maker](https://bumsyalao.github.io/pixel-art-maker/)
+
 ## Table of Contents
 
 * [Instructions](#instructions)
